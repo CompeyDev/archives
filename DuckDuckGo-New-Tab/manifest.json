@@ -1,0 +1,8 @@
+{
+  "name": "DuckDuckGo New Tab",
+  "description": "This extension changes the New Tab page to DuckDuckGo's Page without promotions. One can edit the URL in the 'overrride.html' file to any other URL they may like.",
+  "version": "1.0",
+  "incognito": "split",
+  "chrome_url_overrides": { "newtab": "override.html" },
+  "manifest_version": 2
+}
