@@ -11,3 +11,8 @@
 .btn:hover {
   background-color: RoyalBlue;
 }
+
+/*Centering the button*/
+.text-center {
+  text-align: center;
+}
