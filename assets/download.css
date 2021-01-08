@@ -1,5 +1,5 @@
 .btn {
-  background-color: DodgerBlue;
+  background-color: #ff1e1e;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -9,7 +9,7 @@
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: #f00909;
 }
 
 /*Centering the button*/
